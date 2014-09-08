@@ -1,0 +1,10 @@
+/*------------------------------------*\ global.CSS
+\*------------------------------------*/
+/* Setup - importing my helper files, which I'll turn on as needed */
+/** Begin importing files here 
+**/
+/*------------------------------------*\ variables.scss
+\*------------------------------------*/
+/*------------------------------------*\ styles.scss use this for main styles until I break it up later down the line.
+\*------------------------------------*/
+.header { background-color: red; height: 200px; width: 100%; }
